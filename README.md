@@ -1,0 +1,2 @@
+# poznajtf
+PoznajTerraform exercise repository
