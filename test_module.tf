@@ -1,5 +1,5 @@
 module "local-file" {
-  source  = "app.terraform.io/app/shazzzzaaa/registry/modules/private/shazzzzaaa/module/poznajtf/0.0.1"
+  source  = "app.terraform.io/shazzzzaaa/module/poznajtf"
   version = "0.0.1"
 
   for_each = var.files
