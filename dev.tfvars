@@ -1,6 +1,6 @@
 files = {
   file1 = {
-    filename          = "bend.txt"
+    filename          = "ptf-bend.txt"
     content           = "content1"
     is_base64_content = true
     file_permission   = "0644"
@@ -9,7 +9,7 @@ files = {
     file_source       = null
   }
   file2 = {
-    filename          = "pretend.txt"
+    filename          = "ptf-pretend.txt"
     content           = "content2"
     is_base64_content = false
     file_permission   = "0644"
