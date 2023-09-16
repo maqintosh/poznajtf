@@ -1,6 +1,6 @@
 module "local-file" {
   source  = "app.terraform.io/shazzzzaaa/module/poznajtf"
-  version = "0.0.1"
+  version = "0.0.2"
 
   for_each = var.files
 
